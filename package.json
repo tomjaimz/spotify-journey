@@ -1,0 +1,13 @@
+{
+  "name": "spotify-journey",
+  "version": "1.0.0",
+  "description": "none",
+  "repository": "none",
+  "license": "MIT",
+  "dependencies": {
+    "bottleneck": "^2.19.5"
+  },
+  "devDependencies": {
+    "@spotify/web-scripts": "^6.0.0"
+  }
+}
