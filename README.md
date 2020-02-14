@@ -1,4 +1,4 @@
-# Mix To Playlist
+# Spotify Journey
 
 This Node application will take a playlist (as a command line argument), and then output one or more "Journeys".
 
